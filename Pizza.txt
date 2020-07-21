@@ -1,0 +1,8 @@
+
+
+Receipe from anish
+
+1.  Go to Dominos Pizza
+2.  Search  pizza
+3.  order selected pizza
+4.  pay 
